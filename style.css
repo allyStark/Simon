@@ -1,0 +1,127 @@
+.color {
+  
+  border: 10px solid black;
+  height: 300px;
+  width:300px;
+  
+}
+
+.green {
+  
+  background-color: #5ADA8D;
+  border-top-left-radius: 100%;
+  
+}
+
+.red {
+  
+  background-color:#F5364E;
+  border-top-right-radius: 100%;
+  
+}
+
+.yellow {
+  
+  background-color:#E9EE74;
+  border-bottom-left-radius: 100%;
+  
+}
+
+.blue {
+  
+  background-color:#0078DA;
+  border-bottom-right-radius: 100%;
+  
+}
+
+button {
+  
+  margin-top:1%;
+  background-color:#420d0d;
+  border-color:black;
+  font-family: 'VT323', monospace;
+  
+}
+
+p {
+  
+  font-size:300%
+  
+}
+
+.button-cont {
+ 
+  margin-top: 5%;
+  height: 620px;
+  width: 600px;
+  border: 10px solid #343436;
+  border-radius: 50%;
+  
+}
+
+.middle-part {
+  
+  border: 20px black solid;
+  background-color: #343436;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  position:relative;
+  top: -455px;
+  
+}
+
+.holder {
+  
+  position: relative;
+  top: 30px;
+  
+}
+
+.scorenum {
+  
+  border: black 4px solid;
+  border-radius: 25%;
+  width: 50px;
+  height: 50px;
+  margin-left: 74px;
+  background-color: #E2E2E2;
+  font-family: 'VT323', monospace;
+  font-size: 300%;
+  color:black;
+  text-align: center;
+  vertical-align: center;
+  line-height: 43px;
+  
+}
+
+.digital-text{
+  
+  font-family: 'VT323', monospace;
+  font-size: 250%;
+  color:#E2E2E2;
+  
+}
+
+.title {
+  
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 250%;
+  color: #E2E2E2;
+  margin-bottom: 2%;
+  
+}
+
+.fa {
+  
+  text-align: center;
+  
+}
+
+body {
+  
+  background-image: url('http://www.hdwallpapersfreedownload.com/uploads/large/3d-and-abstract/3d-abstract-hd-background.jpg');
+  background-size: 100% 100%;
+  
+}
+
